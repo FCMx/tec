@@ -1,1 +1,1 @@
-tec
+Desarrollo del Syllabus - "Derecho Notarial"
